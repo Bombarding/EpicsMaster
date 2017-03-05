@@ -55,6 +55,17 @@ sudo ./mongo (client) (in new terminal)
 
 Server should be running on port 3000
 ```
+Install Calendar
+```
+sudo chown -R $USER:$GROUP ~/.npm
+sudo chown -R $USER:$GROUP ~/.config
+bower install --save material-calendar
+npm install --save angular-material-calendar
+npm install angular-i18n
+bower install angular-i18n
+```
+
+
 Node.js Confirmation
 ```
 Node.js was installed at
@@ -99,10 +110,6 @@ Author Alpha Phase:
 - Chris McDonald (https://github.com/chrismcdonald0111)
 Author Beta Phase:
 - Alex Steel (https://github.com/Bombarding)
-- Matthew Beebs (Secondary Tech)
-- Chris Jones (Tertiary Tech / Client Liason)
-- Avery Cheatham (Quaternary Tech / Project Manager)
-
 ```
 
 ## ToDo
