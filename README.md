@@ -47,6 +47,11 @@ sudo ./mongo (client) (in new terminal)
 
 > Launch localhost@8000: grunt serve
 
+> Download Jquery: sudo npm install jquery
+			bower install jquery
+> Download Angular: sudo npm install angular
+			bower install angular
+
 > *** Back End ***
 
 > Enter nodejs directory and run: sudo npm install
